@@ -23,7 +23,7 @@
 }
 
 .container__image_container {
-    background-image: url('./background.JPG');
+    background-image: url('./person.JPG');
     width: 50%;
     /* background-position: left; */
     height: 100vh;
