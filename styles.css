@@ -68,6 +68,19 @@ body {
 
     .container__links_container {
         width: 100%;
-
     }
+
+    .container__links_container__link-block {
+        background: rgba(255, 255, 255, .6);
+    }
+
+}
+
+@media screen and (max-width: 390px) {
+    .container {
+        background-position: 44% 100%;
+        background-size: 580px;
+    }
+
+
 }
